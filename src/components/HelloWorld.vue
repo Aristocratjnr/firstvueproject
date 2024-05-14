@@ -15,7 +15,8 @@ const count = ref(0)
     <button type="button" @click="count++">Click Me: {{ count }}</button>
     <p>
       <code>My First Vue project</code> 
-    </p>
+    </p><br />
+    <footer><code>Aristocratjnr</code></footer>
   </div>
 </template>
 
