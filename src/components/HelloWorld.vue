@@ -12,7 +12,7 @@ const count = ref(0)
   <h1>{{ msg }}</h1>
 
   <div class="card">
-    <button type="button" @click="count++">Click Me: {{ count }}</button>
+    <button type="button" @click="count++">Click Me🥺: {{ count }}</button>
     <p>
       <code>My First Vue project</code> 
     </p><br />
